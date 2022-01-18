@@ -1,0 +1,10 @@
+D:\qasimc#\app c#\interviewQuestion\interviewQuestion\bin\Debug\interviewQuestion.exe.config
+D:\qasimc#\app c#\interviewQuestion\interviewQuestion\bin\Debug\interviewQuestion.exe
+D:\qasimc#\app c#\interviewQuestion\interviewQuestion\bin\Debug\interviewQuestion.pdb
+D:\qasimc#\app c#\interviewQuestion\interviewQuestion\obj\Debug\interviewQuestion.csproj.AssemblyReference.cache
+D:\qasimc#\app c#\interviewQuestion\interviewQuestion\obj\Debug\interviewQuestion.Login.resources
+D:\qasimc#\app c#\interviewQuestion\interviewQuestion\obj\Debug\interviewQuestion.Properties.Resources.resources
+D:\qasimc#\app c#\interviewQuestion\interviewQuestion\obj\Debug\interviewQuestion.csproj.GenerateResource.cache
+D:\qasimc#\app c#\interviewQuestion\interviewQuestion\obj\Debug\interviewQuestion.csproj.CoreCompileInputs.cache
+D:\qasimc#\app c#\interviewQuestion\interviewQuestion\obj\Debug\interviewQuestion.exe
+D:\qasimc#\app c#\interviewQuestion\interviewQuestion\obj\Debug\interviewQuestion.pdb

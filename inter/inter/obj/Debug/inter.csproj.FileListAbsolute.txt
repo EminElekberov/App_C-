@@ -1,0 +1,12 @@
+D:\qasimc#\app c#\inter\inter\bin\Debug\inter.exe.config
+D:\qasimc#\app c#\inter\inter\bin\Debug\inter.exe
+D:\qasimc#\app c#\inter\inter\bin\Debug\inter.pdb
+D:\qasimc#\app c#\inter\inter\obj\Debug\inter.csproj.AssemblyReference.cache
+D:\qasimc#\app c#\inter\inter\obj\Debug\inter.Form1.resources
+D:\qasimc#\app c#\inter\inter\obj\Debug\inter.Properties.Resources.resources
+D:\qasimc#\app c#\inter\inter\obj\Debug\inter.csproj.GenerateResource.cache
+D:\qasimc#\app c#\inter\inter\obj\Debug\inter.csproj.CoreCompileInputs.cache
+D:\qasimc#\app c#\inter\inter\obj\Debug\inter.exe
+D:\qasimc#\app c#\inter\inter\obj\Debug\inter.pdb
+D:\qasimc#\app c#\inter\inter\obj\Debug\inter.frmMain.resources
+D:\qasimc#\app c#\inter\inter\obj\Debug\inter.NewAccount.resources

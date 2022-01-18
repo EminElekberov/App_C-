@@ -1,0 +1,16 @@
+D:\pragmateck\example\video2\winform16\bin\Debug\netcoreapp3.1\winform16.exe
+D:\pragmateck\example\video2\winform16\bin\Debug\netcoreapp3.1\winform16.deps.json
+D:\pragmateck\example\video2\winform16\bin\Debug\netcoreapp3.1\winform16.runtimeconfig.json
+D:\pragmateck\example\video2\winform16\bin\Debug\netcoreapp3.1\winform16.runtimeconfig.dev.json
+D:\pragmateck\example\video2\winform16\bin\Debug\netcoreapp3.1\winform16.dll
+D:\pragmateck\example\video2\winform16\bin\Debug\netcoreapp3.1\winform16.pdb
+D:\pragmateck\example\video2\winform16\obj\Debug\netcoreapp3.1\winform16.csproj.AssemblyReference.cache
+D:\pragmateck\example\video2\winform16\obj\Debug\netcoreapp3.1\winform16.Form1.resources
+D:\pragmateck\example\video2\winform16\obj\Debug\netcoreapp3.1\winform16.csproj.GenerateResource.cache
+D:\pragmateck\example\video2\winform16\obj\Debug\netcoreapp3.1\winform16.GeneratedMSBuildEditorConfig.editorconfig
+D:\pragmateck\example\video2\winform16\obj\Debug\netcoreapp3.1\winform16.AssemblyInfoInputs.cache
+D:\pragmateck\example\video2\winform16\obj\Debug\netcoreapp3.1\winform16.AssemblyInfo.cs
+D:\pragmateck\example\video2\winform16\obj\Debug\netcoreapp3.1\winform16.csproj.CoreCompileInputs.cache
+D:\pragmateck\example\video2\winform16\obj\Debug\netcoreapp3.1\winform16.dll
+D:\pragmateck\example\video2\winform16\obj\Debug\netcoreapp3.1\winform16.pdb
+D:\pragmateck\example\video2\winform16\obj\Debug\netcoreapp3.1\winform16.genruntimeconfig.cache

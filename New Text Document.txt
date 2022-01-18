@@ -1,0 +1,13 @@
+conn.Open();
+            com.Connection = conn;
+            com.CommandText = "insert into tbl_login (Username,Password) values ('" + txtCreateName.Text.Trim() + "','" + txtCreatPassword.Text.Trim() + "')";
+            com.ExecuteNonQuery();
+            conn.Close();
+            MessageBox.Show("Success");
+            Form1 frm = new Form1();
+            this.Hide();
+            frm.ShowDialog();
+
+ SqlConnection conn = new SqlConnection();
+        SqlCommand com = new SqlCommand();
+           conn.ConnectionString = @"Data Source=DESKTOP-J12R9UI\SQLEXPRESS;Initial Catalog=LoginDb;Integrated Security=True";

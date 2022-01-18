@@ -1,0 +1,10 @@
+D:\qasimc#\app c#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\qasimc#\app c#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\qasimc#\app c#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\qasimc#\app c#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\COPYRENAME.csproj.AssemblyReference.cache
+D:\qasimc#\app c#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\qasimc#\app c#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\qasimc#\app c#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\COPYRENAME.csproj.GenerateResource.cache
+D:\qasimc#\app c#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\COPYRENAME.csproj.CoreCompileInputs.cache
+D:\qasimc#\app c#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\qasimc#\app c#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
